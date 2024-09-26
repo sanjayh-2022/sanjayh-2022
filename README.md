@@ -50,21 +50,11 @@
 <br>
 
 <div>
-  <img   src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sanjayh-2022&theme=solarized_dark" alt="Repos per Language" />
-  <img   src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sanjayh-2022&theme=solarized_dark" alt="Commits per Language" />
-  <img   src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sanjayh-2022&theme=solarized_dark" alt="Stars per Language" />
- 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sanjayh-2022&theme=transparent&show_icons=true&locale=en&layout=donut" alt="sanjayh-2022" />
+  <img  src="https://github-readme-stats.vercel.app/api?username=sanjayh-2022&show_icons=true&rank_icon=github&theme=dark#gh-dark-mode-only" alt="Stars per Language" />
 </div>
 
-<br>
-<p>
-     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sanjayh-2022&theme=solarized_dark&show_icons=true&locale=en&layout=donut" alt="sanjayh-2022" />
-</p>
 
-
-<p>
-     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanjayh-2022&" alt="sanjayh-2022" />
-</p>
 
 
 
