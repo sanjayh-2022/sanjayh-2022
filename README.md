@@ -9,6 +9,8 @@
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjayh-2022&layout=donut&theme=dark#gh-dark-mode-only">
 
+  <br>
+
 [![](https://github-readme-stats.vercel.app/api?username=sanjayh-2022&show_icons=true&rank_icon=github&theme=dark#gh-dark-mode-only)](https://github.com/Aswinr24/github-readme-stats#gh-dark-mode-only)
 
 
