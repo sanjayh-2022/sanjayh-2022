@@ -1,6 +1,6 @@
 <h1 align="left">Hi 👋, I'm H Sanjay</h1>
-<h3 align="left">A passionate full stack developer</h3>
-🔭 Currently Learning and exploring ZK Proofs, CyberSecurity<br><br>
+<h3 align="left">Full Stack Developer</h3>
+<br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjayh-2022&label=Profile%20views&color=0e75b6&style=flat" alt="sanjayh-2022" /> </p>
  
